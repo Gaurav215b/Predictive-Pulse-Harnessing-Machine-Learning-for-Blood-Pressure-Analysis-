@@ -2,9 +2,9 @@
 
 This project uses machine learning to analyze blood pressure data and predict the severity stage of a patient. It includes:
 
-- 📊 Data analysis using Jupyter Notebook
-- 🧠 ML model to predict blood pressure stage
-- 🌐 Streamlit-based web app for real-time prediction
+-  Data analysis using Jupyter Notebook
+-  ML model to predict blood pressure stage
+-  Streamlit-based web app for real-time prediction
 
 ---
 
