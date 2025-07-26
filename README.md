@@ -1,4 +1,4 @@
-# 🩺 Blood Pressure Analysis and Stage Prediction
+# Blood Pressure Analysis and Stage Prediction
 
 This project uses machine learning to analyze blood pressure data and predict the severity stage of a patient. It includes:
 
@@ -22,7 +22,7 @@ This project uses machine learning to analyze blood pressure data and predict th
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Predict BP Stage with meaningful output (e.g. **Stage 1 - Mild Hypertension**)
 - Display confidence of predictions
@@ -30,14 +30,14 @@ This project uses machine learning to analyze blood pressure data and predict th
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **File**: `patient_data.csv`
 - Contains: age, gender, blood pressure levels, symptoms, diagnosis, and medication info.
 
 ---
 
-## 🧠 ML Models Used
+##  ML Models Used
 
 - XGBXGBoost
 
@@ -49,7 +49,7 @@ Trained to classify patient BP stage using features like:
 
 ---
 
-## 🌐 How to Run Web App
+##  How to Run Web App
 
 ```bash
 pip install -r requirements.txt
@@ -58,7 +58,7 @@ streamlit run BP_web.py
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 - Add model explainability (e.g. SHAP or LIME)
 - Deploy to cloud (Streamlit Cloud or HuggingFace Spaces)
